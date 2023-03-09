@@ -1,0 +1,360 @@
+Question 1
+1 / 1 pts
+Focus Areas describe specific objectives with regards to governance
+  True 
+Correct!
+  False 
+ 
+Question 2
+1 / 1 pts
+A company that conducts online sales falls under what level of compliance requirements?
+  Low 
+Correct!
+  High 
+  Normal 
+ 
+Question 3
+1 / 1 pts
+COBIT contains technical specifications for reducing risks
+  True 
+Correct!
+  False 
+ 
+Question 4
+1 / 1 pts
+Which of the following statements is false regarding risk analysis?
+Correct!
+  Analyzing the risks is the first step in the risk analysis process 
+  Process of identifying and analyzing potential issues that could negatively impact the organization 
+  Risk analysis is used to plan for technology or equipment failure 
+  Used to identify gaps in security and determine steps in how to remedy them 
+ 
+Question 5
+1 / 1 pts
+Which of the following statements about forensic audits is false?
+  Investigations typically deal with volatile information meaning time windows are short 
+  Typically done as a result of a cyber security related event 
+  Forensic audits are performed to inspect a system to gather information or evidence 
+Correct!
+  Investigations typically deal with non-volatile information meaning investigators can take their time to ensure it is done methodically and accurately 
+ 
+Question 6
+1 / 1 pts
+Which of the following is not an IG1 sub-control regarding Malware Defense?
+  Ensure Anti-Malware software and signatures are updated 
+Correct!
+  Enable DNS Query logging 
+  Configure devices to not auto-run content 
+  Configure Anti-Malware Scanning of Removable media 
+ 
+Question 7
+1 / 1 pts
+Which of the following regarding Inventory and Control of hardware assets would fall into implementation group 3?
+  Maintain Asset inventory 
+  Maintain Detailed asset inventory information 
+Correct!
+  Use a passive Asset discovery tool 
+ 
+Question 8
+1 / 1 pts
+Which of the following is false in regards to IT governance?
+  Regulatory requirements are getting more complex and increasing in number 
+  Risks are becoming more complex 
+Correct!
+  IT costs are going down due to increased effectiveness of technology 
+  Senior management is asking for better return of investment 
+ 
+Question 9
+1 / 1 pts
+Using passwords and permissions is an example of which type of control?
+  Corrective Control 
+Correct!
+  Preventative Control 
+  Detective Control 
+ 
+Question 10
+1 / 1 pts
+Performance management of employees and technology is an important part of IT governance. 
+Correct!
+  True 
+  False 
+ 
+Question 11
+0 / 1 pts
+Component Variation refers to how design factors change based on specific business factors
+Correct Answer
+  True 
+You Answered
+  False 
+ 
+Question 12
+1 / 1 pts
+Which of the following is NOT one of the implementation tiers of NIST?
+  Repeatable 
+  Adaptive 
+Correct!
+  Complete 
+  Partial 
+ 
+Question 13
+1 / 1 pts
+Address unapproved software would fall under which implementation group?
+  IG2 
+  IG3 
+Correct!
+  IG1 
+ 
+Question 14
+1 / 1 pts
+Which of the following is NOT one of the ways to categorize risks
+  Accept 
+  Control 
+  Monitor 
+Correct!
+  Cost 
+ 
+Question 15
+0 / 1 pts
+Which of the following is NOT a cost consideration when implementing controls
+  investment in people 
+  investment in technology 
+Correct Answer
+  Cost of repairs 
+You Answered
+  processes 
+ 
+Question 16
+1 / 1 pts
+Which of the following is NOT part of the NIST cyber security framework?
+  Framework Profile 
+Correct!
+  Framework Maturity Levels 
+  Framework Implementation Tiers 
+  Framework Core 
+ 
+Question 17
+1 / 1 pts
+Which of the following is part of the Protect function of NIST?
+  Recovery Planning 
+Correct!
+  Awareness and Training 
+  Response Planning 
+  Risk Assessment 
+ 
+Question 18
+1 / 1 pts
+Which of the following is NOT a part of the NIST framework core?
+Correct!
+  Alignment goals 
+  Informative References 
+  Categories 
+  Functions 
+ 
+Question 19
+0 / 1 pts
+Which of the following is NOT a method of prioritizing risks based on likelihood & impacts of scenarios as per step 6 of risk analysis
+Correct Answer
+  Feasibility 
+You Answered
+  Cost 
+  Reputation 
+  Time Lost 
+ 
+Question 20
+1 / 1 pts
+What is the most common method of attack on an organization?
+Correct!
+  Phishing 
+  Port scanning 
+  website vulnerabilities 
+  DDoS 
+ 
+Question 21
+1 / 1 pts
+Running an IDS is an example of which type of control?
+Correct!
+  Detection control 
+  Preventative control 
+  Corrective control 
+ 
+Question 22
+1 / 1 pts
+Which of the following is not one of the five tenets of an effective cyber defense system according to the CIS controls?
+  Offense informs defense 
+  Continuous diagnostics and mitigation 
+  Measurements & Metrics
+  Automation 
+Correct!
+  Enterprise goal alignment 
+  Prioritization 
+ 
+Question 23
+1 / 1 pts
+Which of the following is a consideration for step 2 of risk analysis: Identifying and prioritizing assets
+  Data Leaks 
+  Service Disruption 
+Correct!
+  Criticality 
+  Human Error 
+ 
+Question 24
+1 / 1 pts
+Your organization employs one person to manually review logs once per week. Errors are not discovered quickly due to this process. This is an example of what type of risk?
+  Detection Risk 
+Correct!
+  Control Risk 
+  Audit Risk 
+  Inherent Risk 
+ 
+Question 25
+1 / 1 pts
+A Risk Analysis is used to identify potential issues that could negatively impact your business
+Correct!
+  True 
+  False 
+ 
+Question 26
+1 / 1 pts
+NIST is a technology specific framework
+  True 
+Correct!
+  False 
+ 
+Question 27
+1 / 1 pts
+Assigning a numerical value to a risk is an example of what type of risk analysis?
+Correct!
+  Quantitative Risk Analysis 
+  Qualitative Risk Analysis 
+ 
+Question 28
+1 / 1 pts
+CIS Controls are IT specific controls informed by actual attacks and effective defenses.
+Correct!
+  True 
+  False 
+ 
+Question 29
+1 / 1 pts
+A compliance audit can result in fines if performed by an internal auditor.
+  True 
+Correct!
+  False 
+ 
+Question 30
+0 / 1 pts
+In the CIS controls, group is determined by organization size.
+You Answered
+  True 
+Correct Answer
+  False 
+ 
+Question 31
+1 / 1 pts
+Which of the following statements is false regarding the design of COBIT?
+  Used to assure information is accurate to support business decisions 
+Correct!
+  Is a framework to organize business processes 
+  Maintain compliance with relevant laws and regulations 
+  Used to bridge a gap between technical issues, business risks, and control requirements 
+  Help achieve strategic goals by using IT 
+ 
+Question 32
+1 / 1 pts
+Which of the following is not a form of network security?
+  IPS/IDS 
+  VPN  
+Correct!
+  Data Encryption 
+  Firewall 
+ 
+Question 33
+1 / 1 pts
+Which of the following is not considered a major area of Cyber Security?
+  Network Security 
+  Disaster Recovery 
+Correct!
+  Password Security 
+  Application Security 
+ 
+Question 34
+1 / 1 pts
+Physical control over assets is an example of which type of control?
+  Corrective Control 
+  Detective Control 
+Correct!
+  Preventative Control 
+ 
+Question 35
+0 / 1 pts
+Using a free version of a software testing tool is an example of what type of risk?
+  Audit Risk 
+Correct Answer
+  Detection Risk 
+  Inherent Risk 
+You Answered
+  Control Risk 
+ 
+Question 36
+1 / 1 pts
+Which of the following is the first step in performing an audit? 
+  Review the company's previously done business impact analysis
+Correct!
+  Review of the organization to gain an understanding of the business and its goals 
+  Examine policies and controls in place for the business 
+  Assess the business' ranked functions to determine where to start
+ 
+Question 37
+1 / 1 pts
+Which of the following is not an outcome of an internal Audit?
+  Help design the company's risk management strategy
+Correct!
+  Officially determine compliance to relevant laws/regulations 
+  Determine gaps in controls 
+  Ensure policies previously implemented are operating effectively 
+ 
+Question 38
+1 / 1 pts
+Which of the following is part of the Detect function of NIST?
+  Asset Management 
+  Response Analysis 
+Correct!
+  Continuous Monitoring 
+  Identity Management 
+ 
+Question 39
+1 / 1 pts
+Ranking risks based on threat landscape and likelihood of the risk occurring is an example of what type of risk analysis?
+Correct!
+  Qualitative Risk 
+  Quantitative Risk 
+ 
+Question 40
+1 / 1 pts
+Internal audits are usually reported directly to the CEO of the organization.
+  True 
+Correct!
+  False 
+ 
+Question 41
+Not yet graded / 2 pts
+Briefly explain what acceptable level of risk is
+Your Answer:
+In order to achieve a specific goal or purpose, a person or organization must be willing to accept a certain level of risk. This degree of risk is often assessed by weighing the potential advantages of a given course of action or decision against the potential costs or adverse effects that may follow. Ultimately, what constitutes an acceptable amount of risk will vary depending on the unique circumstances, the aims and objectives at stake, and the risk tolerance of the individual or organization involved.
+
+ 
+Question 42
+Not yet graded / 2 pts
+In your own words, briefly describe why it's important to update software and hardware.
+Your Answer:
+Regular software and hardware updates are crucial for a variety of reasons.
+1. Security patches are frequently included in updates, making software and hardware more secure and less susceptible to attacks by assisting in the protection against new and growing cyber threats.
+2. By eliminating bugs and other problems that may have an impact on usability and user experience, updates can enhance the performance and functioning of the software and hardware.
+3. Updates can ensure that software and hardware are compatible with new technologies and gadgets, ensuring that they are up to date and useful. The software and hardware can also be kept as useful and functioning as possible for a longer period of time by performing regular upgrades, which can assist to increase their lifespan.
+
+ 
+Question 43
+Not yet graded / 2 pts
+In your own words, briefly describe why keeping logs is important.
+Your Answer:
+Log maintenance is essential for a variety of reasons. A full record of system activity, including errors, warnings, and other occurrences, can first and foremost be provided through logs. This can be useful for identifying issues, resolving them, and identifying possible security hazards. Second, logs can be used to monitor performance and usage trends, providing users with information about how systems and applications are used as well as chances for improvement. Thirdly, logs can be used for auditing, compliance, and to demonstrate adherence to legal and regulatory norms. Logs can also be used for forensic analysis in the case of a security breach or other incident to help identify the origin and scope of the problem and to provide a basis for further investigation.
